@@ -11,3 +11,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.imdb-main-page {
+    background-color: lightgrey;
+    padding: 10px 20px 40px 20px;
+    width: 280px;
+    border: 2px solid black;
+    align-items: center;
+    justify-content: center;
+}
+
+.upcoming-films{
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    padding: 10px;
+    top: 20px;
+    text-align: center;
+    border: 1px solid black;
+}
